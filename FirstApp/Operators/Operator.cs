@@ -10,6 +10,8 @@
             var c = ++a;
             Console.WriteLine($"b = {b}");
             Console.WriteLine($"c = {c}");
+            Console.WriteLine($"a = {a}");
+
         }
 
         public void Ternar(int a )
