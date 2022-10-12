@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FirstApp/.vs
+/FirstApp/CodeFlow/bin/Debug/net6.0
+/FirstApp/CodeFlow/obj
+/FirstApp/DataTypes/bin/Debug/net6.0
+/FirstApp/DataTypes/obj
+/FirstApp/Fields/obj
+/FirstApp/FirstApp/bin/Debug/net6.0
+/FirstApp/FirstApp/obj
+/FirstApp/FirstLib/bin/Debug/net6.0
+/FirstApp/FirstLib/obj
+/FirstApp/Operators/bin/Debug/net6.0
+/FirstApp/Operators/obj
